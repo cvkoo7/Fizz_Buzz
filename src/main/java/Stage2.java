@@ -5,6 +5,8 @@ public class Stage2 {
             return "2";
         if (i==3)
             return "Fizz";
+        if (i==5)
+            return "Buzz";
         else
             return i + "";
     }
