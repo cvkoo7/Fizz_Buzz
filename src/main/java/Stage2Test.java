@@ -6,5 +6,6 @@ public class Stage2Test {
     public void test() {
         Stage2 fizzBuzz = new Stage2();
         Assert.assertEquals("1",fizzBuzz.action(1));
+        Assert.assertEquals("2",fizzBuzz.action(2));
     }
 }
