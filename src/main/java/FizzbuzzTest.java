@@ -6,6 +6,7 @@ public class FizzbuzzTest {
     public void test(){
         FizzBuzz fizzBuzz = new FizzBuzz();
         Assert.assertEquals("1",fizzBuzz.action(1));
+        Assert.assertEquals("2",fizzBuzz.action(2));
     }
 }
 
