@@ -12,5 +12,6 @@ public class Stage2Test {
         Assert.assertEquals("4",fizzBuzz.action(4));
         Assert.assertEquals("Buzz",fizzBuzz.action(5));
         Assert.assertEquals("Fizz",fizzBuzz.action(6));
+        Assert.assertEquals("Buzz",fizzBuzz.action(10));
     }
 }
