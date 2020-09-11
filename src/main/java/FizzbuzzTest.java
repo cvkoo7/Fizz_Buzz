@@ -1,10 +1,11 @@
+import org.junit.Assert;
 import org.junit.Test;
 
 public class FizzbuzzTest {
     @Test
     public void test(){
         FizzBuzz fizzBuzz = new FizzBuzz();
-        String output = fizzBuzz.action(1);
+        Assert.assertEquals("1",fizzBuzz.action(1));
     }
 }
 
