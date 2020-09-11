@@ -1,8 +1,8 @@
 # Fizz_Buzz
 
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/cvkoo7/fizzbuzz)
-![GitHub](https://img.shields.io/github/license/cvkoo7/fizzbuzz)
-![GitHub top language](https://img.shields.io/github/languages/top/cvkoo7/fizzbuzz)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/cvkoo7/Fizz_Buzz)
+![GitHub](https://img.shields.io/github/license/cvkoo7/Fizz_Buzz)
+![GitHub top language](https://img.shields.io/github/languages/top/cvkoo7/Fizz_Buzz)
 
 #### It is a popular program of fizzbuzz developed using test driven development approach with Java.
 Problem Description: Write a short program that prints each number from 1 to 100 on a new line. For each multiple of 3, print "Fizz" instead of the number. For each multiple of 5, print "Buzz" instead of the number. For numbers which are multiples of both 3 and 5, print "FizzBuzz" instead of the number.
@@ -15,6 +15,6 @@ Problem Description: Write a short program that prints each number from 1 to 100
 ## SUPPORT THE WORK
 
 [![GitHub followers](https://img.shields.io/github/followers/cvkoo7?label=follow&style=social)](https://github.com/cvkoo7?tab=followers)
-[![GitHub forks](https://img.shields.io/github/forks/cvkoo7/Spark?label=forks&style=social)](https://github.com/cvkoo7/fizzbuzz) &nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/cvkoo7/Spark?style=social)](https://github.com/cvkoo7/fizzbuzz)
+[![GitHub forks](https://img.shields.io/github/forks/cvkoo7/Fizz_Buzz?label=forks&style=social)](https://github.com/cvkoo7/Fizz_Buzz) &nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/cvkoo7/Fizz_Buzz?style=social)](https://github.com/cvkoo7/Fizz_Buzz)
 &nbsp;
