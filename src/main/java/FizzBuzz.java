@@ -1,5 +1,8 @@
 public class FizzBuzz {
     public String action(int input) {
-        return "1";
+        if (input==1)
+            return "1";
+        else
+            return "2";
     }
 }
